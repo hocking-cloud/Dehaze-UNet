@@ -1,6 +1,12 @@
 # Dehaze-UNet
 This is the code for the paper Dehaze-UNet: A Lightweight Network Based on UNet for Single Image Dehazing.
+
+
+
 If you refer to our code, please cite our work:
+
+
+
 @Article{electronics13112082,
 AUTHOR = {Zhou, Hao and Chen, Zekai and Li, Qiao and Tao, Tao},
 TITLE = {Dehaze-UNet: A Lightweight Network Based on UNet for Single-Image Dehazing},
